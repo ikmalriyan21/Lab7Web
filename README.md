@@ -78,9 +78,9 @@ Hasil Outputnya
 
 
 
+![input](https://github.com/ikmalriyan21/Lab7Web/blob/8f6a4461291c7ecfcb1baf4d83458aaadbfec86a/gambar/output%20tugas%201.png)
 
-
-
+Selanjutnya, isi kolom input tersebut dengan contoh sebagai berikut
 
 
 
