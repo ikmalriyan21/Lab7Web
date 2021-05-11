@@ -70,9 +70,9 @@ Selanjutnya menampilkan pilihan pekerjaan dengan gaji yang berbeda-beda
 
 
 
+![input](https://github.com/ikmalriyan21/Lab7Web/blob/bab696776fc622e7095f2611e180743b835ab397/gambar/codingan%20tugas%202.png)
 
-
-
+Hasil Outputnya
 
 
 
