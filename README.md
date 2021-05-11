@@ -44,9 +44,9 @@ Membuat Form Input
 
 
 
+![input](https://github.com/ikmalriyan21/Lab7Web/blob/81430d23b63cd3e681e2830082ba55a859903cba/gambar/codingan%20form%20input.png)
 
-
-
+Hasil Outputnya
 
 
 
