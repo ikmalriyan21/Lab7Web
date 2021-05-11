@@ -36,6 +36,22 @@ Hasil Outputnya
 
 
 
+![input](https://github.com/ikmalriyan21/Lab7Web/blob/f4f5a4ae8d5cc65e81df191bdf273364a7105b04/gambar/output%20variable%20php.png)
+
+Membuat Form Input
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
