@@ -20,6 +20,16 @@ Hasil Outputnya
 
 
 
+![input](https://github.com/ikmalriyan21/Lab7Web/blob/d46554dd177108bfd48a6f4a2c89c64a908602d9/gambar/output%20php%20dasar.png)
+
+Menambahkan variable php pada program
+
+
+
+
+
+
+
 
 
 
