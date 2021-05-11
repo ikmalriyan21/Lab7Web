@@ -62,6 +62,21 @@ Membuat form input dengan nama, tanggal lahir dan pekerjaan
 
 
 
+![input](https://github.com/ikmalriyan21/Lab7Web/blob/819403153af11043f507df4f2b87525d196bec1f/gambar/codingan%20tugas%201.png)
+
+Selanjutnya menampilkan pilihan pekerjaan dengan gaji yang berbeda-beda
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
