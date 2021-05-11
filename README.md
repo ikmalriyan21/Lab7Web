@@ -28,9 +28,9 @@ Menambahkan variable php pada program
 
 
 
+![input](https://github.com/ikmalriyan21/Lab7Web/blob/273252aabd6d906998fd51aef907e6480cc85ed6/gambar/codingan%20variable%20php.png)
 
-
-
+Hasil Outputnya
 
 
 
