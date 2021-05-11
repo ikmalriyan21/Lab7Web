@@ -54,8 +54,9 @@ Hasil Outputnya
 
 ![input](https://github.com/ikmalriyan21/Lab7Web/blob/74cf86eabcbdd77c63781c7a69e47727f0919f82/gambar/output%20form%20input.png)
 
+# Tugas
 
-
+Membuat form input dengan nama, tanggal lahir dan pekerjaan 
 
 
 
