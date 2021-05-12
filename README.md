@@ -86,4 +86,14 @@ Selanjutnya, isi kolom input tersebut dengan contoh sebagai berikut
 
 
 
+![input](https://github.com/ikmalriyan21/Lab7Web/blob/19426d5c3d15e4f6c22004cdafbd1759a618a71c/gambar/output%20tugas%202.png)
+
+Dan terakhir, hasil outputnya sebagai berikut
+
+
+
+
+
+
+
 
